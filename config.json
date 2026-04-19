@@ -1,0 +1,12 @@
+{
+  "source": "D:\\YOUR_FOLDER",
+  "destination": "C:\\Users\\YOUR_USERNAME\\OneDrive\\YOUR_FOLDER",
+  "log_file": "D:\\Python\\Script_sincro\\sync.log",
+  "log_max_mb": 5,
+  "exclude_dirs": [],
+  "exclude_files": ["*.tmp", "~*", "Thumbs.db", "desktop.ini"],
+  "robocopy_threads": 8,
+  "retry_count": 2,
+  "retry_wait_seconds": 3,
+  "schedule_interval_minutes": 2
+}
